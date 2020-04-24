@@ -2,7 +2,7 @@
 Predicting Bike Sharing Patterns
 It's a deep learning project I built a neural network from scratch on a real dataset.
 
-# INSTALLATION
+# Installation
 For best experience with managing dependency I advise you install Anconda or miniconda.
 
 # Good to know:
